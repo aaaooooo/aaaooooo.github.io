@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 一億円稼ぐブログ</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on 一億円稼ぐブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2000万に到達！</title>
+      <link>/blog/second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/second-post/</guid>
+      <description>お金が湧いてきて資産2000万円になりましたああああああああああああああああああああああああ。
+あああああああああああああああああああああああああああああああ</description>
+    </item>
+    
+    <item>
+      <title>さんぷる</title>
+      <link>/blog/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/my-first-post/</guid>
+      <description>my-first-posts サンプルです。
+あああああああああああああああああああああああああああああああ</description>
+    </item>
+    
+  </channel>
+</rss>
