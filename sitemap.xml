@@ -2,15 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/second-post/</loc>
-  </url><url>
-    <loc>/blog/</loc>
+    <loc>/about/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/blog/my-first-post/</loc>
   </url><url>
     <loc>/</loc>
   </url>
