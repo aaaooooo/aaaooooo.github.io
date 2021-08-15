@@ -1,0 +1,18 @@
+backend:
+  name: git-gateway
+  branch: staging
+media_folder: static/images/blog
+public_folder: "/images/blog"
+collections:
+- name: "blog"
+  label: Blog
+  folder: "content/blog"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  fields: # The fields for each document, usually in front matter
+  - {label: "type", name: "type", widget: "hidden", default: "post"}
+  - {label: "Title", name: "title", widget: "string"}
+  - {label: "Publish Date", name: "date", widget: "datetime"}
+  - {label: "Featured Image", name: "image", widget: "image"}
+  - {label: "Body", name: "body", widget: "markdown"}
+
