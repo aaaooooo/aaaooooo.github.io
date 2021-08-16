@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2021-08-16T12:18:57+00:00</lastmod>
+  </url><url>
+    <loc>/blog/2021-08-16-%E3%82%A2%E3%83%BC%E3%83%88%E5%B1%95genkyou%E6%A8%AA%E5%B0%BE%E5%BF%A0%E5%89%87%E5%B1%95%E3%81%AE%E5%86%85%E5%AE%B9%E3%81%A8%E6%84%9F%E6%83%B3%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%8F%BE%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8%E6%B8%85%E6%BE%84%E7%99%BD%E6%B2%B3/</loc>
+    <lastmod>2021-08-16T12:18:57+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-08-16T12:18:57+00:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
     <priority>0</priority>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/</loc>
   </url>
 </urlset>
