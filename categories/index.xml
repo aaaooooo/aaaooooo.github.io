@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 百味百記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 Oct 2021 23:01:28 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Oct 2021 12:23:49 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>パン</title>
+      <link>/categories/%E3%83%91%E3%83%B3/</link>
+      <pubDate>Sun, 10 Oct 2021 12:23:49 +0000</pubDate>
+      
+      <guid>/categories/%E3%83%91%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Healthy</title>
       <link>/categories/healthy/</link>
@@ -31,15 +40,6 @@
       <pubDate>Wed, 06 Oct 2021 12:59:07 +0000</pubDate>
       
       <guid>/categories/%E3%82%B0%E3%83%AB%E3%83%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>パン</title>
-      <link>/categories/%E3%83%91%E3%83%B3/</link>
-      <pubDate>Tue, 05 Oct 2021 12:04:23 +0000</pubDate>
-      
-      <guid>/categories/%E3%83%91%E3%83%B3/</guid>
       <description></description>
     </item>
     
